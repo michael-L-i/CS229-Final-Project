@@ -1,4 +1,4 @@
-# CS229-Final-Project
+# Image Rebroadcasting: Attack and Defense
 
 This repository contains the code and experiments for our CS229 Final Project on detecting and mitigating image recapture (rebroadcast) attacks. The project explores both defense and attack strategies using deep learning and physics-based methods.
 
